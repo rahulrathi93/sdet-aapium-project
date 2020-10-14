@@ -1,0 +1,1 @@
+Appium project activties for SDET-LONG-Batch-2 
